@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">Place Search</string>
+    <string name="action_search">Place Search</string>
+    <string name="action_clear">Clear</string>
+    <string name="search_hint">Search address or place</string>
+    <string name="search_title">Search</string>
+    <string name="suggestion_text">Suggestion</string>
+
+    <!-- progress dialog messages -->
+    <string name="address_search">Searching for Address</string>
+
+    <!-- Toast messages -->
+    <string name="addressSearchFailed">Address search failed</string>
+    <string name="noResultsFound">No Results found</string>
+
+    <!-- Jack Brown -->
+    <string name="JB1">http://roomquest.research.cse.csusb.edu:6080/arcgis/rest/services/JackBrown/MapServer/31</string>
+    <string name="JB2">http://roomquest.research.cse.csusb.edu:6080/arcgis/rest/services/JackBrown/MapServer/27</string>
+    <string name="JB3">http://roomquest.research.cse.csusb.edu:6080/arcgis/rest/services/JackBrown/MapServer/23</string>
+    <string name="JB4">http://roomquest.research.cse.csusb.edu:6080/arcgis/rest/services/JackBrown/MapServer/18</string>
+    <string name="JB5">http://roomquest.research.cse.csusb.edu:6080/arcgis/rest/services/JackBrown/MapServer/16</string>
+
+
+    <!--University Hall -->
+    <string name="Basement">http://roomquest.research.cse.csusb.edu:6080/arcgis/rest/services/FirstPrototype/MapServer/7</string>
+    <string name="FirstFloors">http://roomquest.research.cse.csusb.edu:6080/arcgis/rest/services/FirstPrototype/MapServer/6</string>
+    <string name="SecondFloors">http://roomquest.research.cse.csusb.edu:6080/arcgis/rest/services/FirstPrototype/MapServer/5</string>
+    <string name="ThirdFloors">http://roomquest.research.cse.csusb.edu:6080/arcgis/rest/services/FirstPrototype/MapServer/4</string>
+
+    <!--Pfau Library-->
+    <string name="PLBasement">http://roomquest.research.cse.csusb.edu:6080/arcgis/rest/services/JB3RDFLOOR/MapServer</string>
+
+    <!--Social and Behavioral -->
+
+</resources>
+
